@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerreraR_ExamenPractticoVet", "HerreraR_ExamenPractticoVet\HerreraR_ExamenPractticoVet.csproj", "{AE753EAB-9F0F-4F91-A414-9C15F909B8D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE753EAB-9F0F-4F91-A414-9C15F909B8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE753EAB-9F0F-4F91-A414-9C15F909B8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE753EAB-9F0F-4F91-A414-9C15F909B8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE753EAB-9F0F-4F91-A414-9C15F909B8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F2D4D3-255A-4431-8E8D-3B5E9C5E4AD7}
+	EndGlobalSection
+EndGlobal
