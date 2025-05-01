@@ -32,6 +32,25 @@ namespace HerreraR_ExamenPractticoVet.Models
                     return "Otro";
                 }
             }
+            set
+            {
+                if (string.Compare(value, "Vacunacion", true) == 0)
+                {
+                    Motivo = "Vacunacion";
+                }
+                else if (string.Compare(value, "Revision general", true) == 0)
+                {
+                    Motivo = "Revision general";
+                }
+                else if (string.Compare(value, "Cirugia", true) == 0)
+                {
+                    Motivo = "Cirugia";
+                }
+                else
+                {
+                    Motivo = "Otro";
+                }
+            }
         }
 
         public float TarifaTotal
